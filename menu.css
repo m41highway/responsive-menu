@@ -1,0 +1,14 @@
+.menu {
+    display: inline;
+}
+
+.menu li {
+    border: 1px solid #4f4f4f;
+    border-radius: 2px;
+    background-color: #ff11ff;
+    padding: 2px;
+    display: inline;
+
+}
+
+
